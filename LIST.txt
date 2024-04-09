@@ -40,15 +40,12 @@ transform_AF Afghanistan Bob-AT
 ./region-flags/png/BH.png Bahrain Bob-AT
 ./region-flags/png/BI.png Burundi Bob-AT
 ./region-flags/png/BJ.png Benin Bob-AT
-./region-flags/png/BL.png Saint_Barthélemy Bob-AT
 ./region-flags/png/BM.png Bermuda Bob-AT
 ./region-flags/png/BN.png Brunei_Darussalam Bob-AT
 ./region-flags/png/BO.png Bolivia Bob-AT
-./region-flags/png/BQ.png Bonaire Bob-AT
 ./region-flags/png/BR.png Brazil Bob-AT
 ./region-flags/png/BS.png Bahamas Bob-AT
 ./region-flags/png/BT.png Bhutan Bob-AT
-./region-flags/png/BV.png Bouvet_Island Bob-AT
 ./region-flags/png/BW.png Botswana Bob-AT
 ./region-flags/png/BY.png Belarus Bob-AT
 ./region-flags/png/BZ.png Belize Bob-AT
@@ -79,7 +76,6 @@ transform_CH_B Switzerland_B Bob-AT
 ./region-flags/png/CM.png Cameroon Bob-AT
 ./region-flags/png/CN.png China Bob-AT
 ./region-flags/png/CO.png Colombia Bob-AT
-./region-flags/png/CP.png Clipperton_Island Bob-AT
 ./region-flags/png/CQ.png Island_of_Sark Bob-AT
 ./region-flags/png/CR.png Costa_Rica Bob-AT
 ./region-flags/png/CU.png Cuba Bob-AT
@@ -105,13 +101,11 @@ transform_DE_SL Germany_State_Saarland Bob-AT
 ./region-flags/png/DE-SN.png Germany_State_Sachsen Bob-AT
 transform_DE_ST Germany_State_Sachsen-Anhalt Bob-AT
 ./region-flags/png/DE-TH.png Germany_State_Thüringen Bob-AT
-./region-flags/png/DG.png Diego_Garcia Bob-AT
 ./region-flags/png/DJ.png Djibouti Bob-AT
 ./region-flags/png/DK.png Denmark Bob-AT
 ./region-flags/png/DM.png Dominica Bob-AT
 ./region-flags/png/DO.png Dominican_Republic Bob-AT
 ./region-flags/png/DZ.png Algeria Bob-AT
-./region-flags/png/EA.png Ceuta Bob-AT
 ./region-flags/png/EC.png Ecuador Bob-AT
 ./region-flags/png/EE.png Estonia Bob-AT
 ./region-flags/png/EG.png Egypt Bob-AT
@@ -145,7 +139,6 @@ transform_DE_ST Germany_State_Sachsen-Anhalt Bob-AT
 ./region-flags/png/FM.png Federated_States_of_Micronesia Bob-AT
 ./region-flags/png/FO.png Faroe_Islands Bob-AT
 ./region-flags/png/FR.png France Bob-AT
-./region-flags/png/FX.png Metropolitan_France Bob-AT
 ./region-flags/png/GA.png Gabon Bob-AT
 ./region-flags/png/UK.png UK Bob-AT
 ./region-flags/png/GB-ENG.png UK_England Bob-AT
@@ -170,7 +163,6 @@ transform_DE_ST Germany_State_Sachsen-Anhalt Bob-AT
 ./region-flags/png/GW.png Guinea-Bissau Bob-AT
 ./region-flags/png/GY.png Guyana Bob-AT
 ./region-flags/png/HK.png Hong_Kong Bob-AT
-./region-flags/png/HM.png Heard_Island_and_McDonald_Islands Bob-AT
 ./region-flags/png/HN.png Honduras Bob-AT
 ./region-flags/png/HR.png Croatia Bob-AT
 ./region-flags/png/HT.png Haiti Bob-AT
@@ -218,7 +210,6 @@ transform_KR Korea_KR Bob-AT
 ./region-flags/png/MC.png Monaco Bob-AT
 ./region-flags/png/MD.png Moldova Bob-AT
 ./region-flags/png/ME.png Montenegro Bob-AT
-./region-flags/png/MF.png Saint_Martin_(French_part) Bob-AT
 ./region-flags/png/MG.png Madagascar Bob-AT
 ./region-flags/png/MH.png Marshall_Islands Bob-AT
 ./region-flags/png/MK.png North_Macedonia Bob-AT
@@ -227,7 +218,6 @@ transform_KR Korea_KR Bob-AT
 ./region-flags/png/MN.png Mongolia Bob-AT
 ./region-flags/png/MO.png Macao Bob-AT
 ./region-flags/png/MP.png Northern_Mariana_Islands Bob-AT
-./region-flags/png/MQ.png Martinique Bob-AT
 ./region-flags/png/MR.png Mauritania Bob-AT
 ./region-flags/png/MS.png Montserrat Bob-AT
 ./region-flags/png/MT.png Malta Bob-AT
@@ -267,7 +257,6 @@ transform_PK Pakistan Bob-AT
 ./region-flags/png/PW.png Palau Bob-AT
 ./region-flags/png/PY.png Paraguay Bob-AT
 ./region-flags/png/QA.png Qatar Bob-AT
-./region-flags/png/RE.png Réunion Bob-AT
 ./region-flags/png/RO.png Romania Bob-AT
 transform_RS Serbia Bob-AT
 ./region-flags/png/RU.png Russia Bob-AT
@@ -280,7 +269,6 @@ transform_RS Serbia Bob-AT
 ./region-flags/png/SG.png Singapore Bob-AT
 ./region-flags/png/SH.png Saint_Helena Bob-AT
 ./region-flags/png/SI.png Slovenia Bob-AT
-./region-flags/png/SJ.png Svalbard_and_Jan_Mayen Bob-AT
 transform_SK Slovakia Bob-AT
 ./region-flags/png/SL.png Sierra_Leone Bob-AT
 ./region-flags/png/SM.png San_Marino Bob-AT
