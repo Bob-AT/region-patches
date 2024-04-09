@@ -191,7 +191,6 @@ transform_IL_B Israel_B Bob-AT
 ./region-flags/png/KN.png Saint_Kitts_and_Nevis Bob-AT
 ./region-flags/png/KP.png Korea_KP Bob-AT
 transform_KR Korea_KR Bob-AT
-./region-flags/png/KR.png Korea_KR2 Bob-AT
 ./region-flags/png/KW.png Kuwait Bob-AT
 ./region-flags/png/KY.png Cayman_Islands Bob-AT
 ./region-flags/png/KZ.png Kazakhstan Bob-AT

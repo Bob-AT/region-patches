@@ -72,7 +72,7 @@ transform_DE_RP () { # Project DE-RP on DE flag with 10px offset
 }
 
 transform_IL_A() { # center IL flag on transparent background
-  project_onto_color ./region-flags/png/US-RI.png xc:none "$1"
+  project_onto_color ./region-flags/png/IL.png xc:none "$1"
 }
 
 transform_IL_B() {
