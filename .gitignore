@@ -1,0 +1,9 @@
+assets/(BlackfootStudios)*
+build*/
+build/
+*.miff
+region-flags/
+result*.png
+*.tmp
+tmp.*
+*.zip

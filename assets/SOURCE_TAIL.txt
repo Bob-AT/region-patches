@@ -1,0 +1,1 @@
+Black frame of the image is derived from `(BlackfootStudios)UnitedStates_B.png` and `(BlackfootStudios)UnitedStates_B_N.png`. Fabric texture is `black-fabric-textile-textured-background_16014764` [Image by rawpixel.com on Freepik](https://www.freepik.com/free-photo/black-fabric-textile-textured-background_16014764.htm).
