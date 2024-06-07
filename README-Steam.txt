@@ -1,6 +1,6 @@
 This pack adds flag patches for [b]all[/b] countries to GROUND BRANCH. It also includes state flags for Australia, Canada, Germany, Spain, and the USA.
-
-Contents:
+[hr][/hr]
+[h2]Contents[/h2]
 [list]
 [*] All countries
 [*] States flags for Australia, Canada, Germany, Spain, and the USA.

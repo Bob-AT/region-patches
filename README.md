@@ -15,8 +15,7 @@ GitHub link: [https://github.com/Bob-AT/region-patches](https://github.com/Bob-A
 
 ## Installation
 
-1. Install 7zip from [https://www.7-zip.org/](https://www.7-zip.org/)
-2. Extract `RegionPatches.7z` to `C:\Program Files (x86)\Steam\steamapps\common\Ground Branch`: For example, double-click the `.7z` file, click "Extract," and enter "C:\Program Files (x86)\Steam\steamapps\common\Ground Branch".
+Via Steam Workshop: [https://steamcommunity.com/sharedfiles/filedetails/?id=3249167694](https://steamcommunity.com/sharedfiles/filedetails/?id=3249167694)
 
 ## Q&A
 
