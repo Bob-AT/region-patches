@@ -1,0 +1,5 @@
+# Lines starting with `#` are ignored. 
+# Format is: INPUT OUTPUT_PREFIX VENDOR
+./other-flags/Rhodesia.png Rhodesia YourNameHere
+./other-flags/WBW.svg White_Blue_White YourNameHere
+
