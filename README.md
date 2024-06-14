@@ -6,7 +6,8 @@ These flags are **not** part of the collection, but you can download them as 7zi
 https://www.mediafire.com/folder/0z8nww1wpsows/OtherPatches
 
 Included `NOTE.txt`:
-````This folder has various patches that don't fit into the "Comprehensive Flag Patch Pack".
+````
+This folder has various patches that don't fit into the "Comprehensive Flag Patch Pack".
 
 Feel free to re-upload.
 
